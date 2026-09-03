@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "860184557477",
+    "project_id": "evently-app-12687",
+    "storage_bucket": "evently-app-12687.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860184557477:android:06cefb2eecafb6a0195a4c",
+        "android_client_info": {
+          "package_name": "com.example.evently_app_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860184557477-s38l3q2o8g867hfln73cbgo5ji7tg9n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evently_app_task",
+            "certificate_hash": "f8ac21ecea847b1bf050f828ae0b09a9ce7a3421"
+          }
+        },
+        {
+          "client_id": "860184557477-bshv3ku010kg4a42d9as24uhe665dbc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaQ1KWitox0PYP31_nWFTqLPsSd2lgII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860184557477-bshv3ku010kg4a42d9as24uhe665dbc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860184557477-2cnli7s5l92av9g3db4u10oisktc9qd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventlyAppTask2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860184557477:android:6dec26e9c50d61a7195a4c",
+        "android_client_info": {
+          "package_name": "com.example.evently_app_task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860184557477-bshv3ku010kg4a42d9as24uhe665dbc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaQ1KWitox0PYP31_nWFTqLPsSd2lgII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860184557477-bshv3ku010kg4a42d9as24uhe665dbc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860184557477-2cnli7s5l92av9g3db4u10oisktc9qd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventlyAppTask2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
